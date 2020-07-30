@@ -1,0 +1,8 @@
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\bin\Release\GridViewResizer.dll
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\bin\Release\GridViewResizer.pdb
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\obj\Release\GridViewResizer.csprojAssemblyReference.cache
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\obj\Release\GridViewResizer.Resize.resources
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\obj\Release\GridViewResizer.csproj.GenerateResource.cache
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\obj\Release\GridViewResizer.csproj.CoreCompileInputs.cache
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\obj\Release\GridViewResizer.dll
+C:\Users\gray\Dropbox\devel\DotNet\ClassLib\GridViewResizer\GridViewResizer\obj\Release\GridViewResizer.pdb
